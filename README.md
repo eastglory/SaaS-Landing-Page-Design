@@ -1,13 +1,7 @@
-# Design System
 
-All the design has been generated with [tailwindcss](https://tailwindcss.com/).
-Find all the theme related configuration inside tailwind.config.js
 
 <div>
-  <h1 align="center">Getting Started with React Figma Web 🚀 </h1>
-  <strong>
-    Generated with ❤️ from Dhiwise
-  </strong>
+  <h1 align="center">React SaaS Landing Page</h1>
   <p>
     This is the documentation of React Figma Web.
     It holds all the info you need to get started with
